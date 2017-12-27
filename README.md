@@ -2,7 +2,7 @@
 
 
 # Neodius
-![](https://img.shields.io/badge/Updated-September%2019,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Updated-December%2024,%202017-lightgrey.svg)
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/CityOfZion/Neodius.svg)](https://github.com/CityOfZion/Neodius/issues/)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/CityOfZion/Neodius.svg)](https://github.com/CityOfZion/Neodius/pulls/)
